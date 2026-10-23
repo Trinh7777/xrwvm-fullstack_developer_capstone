@@ -1,0 +1,28 @@
+curl -X GET "http://127.0.0.1:8000/fetchDealers/Kansas"
+
+[
+  {
+    "id": 15,
+    "city": "Topeka",
+    "state": "Kansas",
+    "st": "KS",
+    "address": "1200 Kansas Ave",
+    "zip": "66612",
+    "lat": 39.0473,
+    "long": -95.6752,
+    "short_name": "Topeka Motors",
+    "full_name": "Topeka Best Cars Dealership"
+  },
+  {
+    "id": 29,
+    "city": "Wichita",
+    "state": "Kansas",
+    "st": "KS",
+    "address": "1500 E Douglas Ave",
+    "zip": "67214",
+    "lat": 37.6865,
+    "long": -97.3192,
+    "short_name": "Wichita Cars",
+    "full_name": "Wichita Auto Outlet"
+  }
+]

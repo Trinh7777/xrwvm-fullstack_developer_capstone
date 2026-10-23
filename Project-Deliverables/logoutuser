@@ -1,3 +1,6 @@
-curl -X GET "https://capstone-developer-8000.theiadocker-3-labs-prod-theia-labs-direct-labs.us-east.containers.appdomain.cloud/djangoapp/logout"
+curl.exe -i -X GET "http://127.0.0.1:8000/djangoapp/logout"
+
+HTTP/1.1 200 OK
+Content-Type: application/json
 
 {"userName": ""}

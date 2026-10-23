@@ -1,48 +1,67 @@
-curl -X GET "https://capstone-developer-8000.theiadocker-3-labs-prod-theia-labs-direct-labs.us-east.containers.appdomain.cloud/djangoapp/get_cars"
+curl -X GET "http://127.0.0.1:8000/djangoapp/get_cars"
 
 {
+  "status": 200,
   "CarModels": [
     {
-      "id": 1,
-      "make": "Audi",
-      "model": "A6",
-      "type": "SEDAN",
-      "year": 2010
+      "CarMake": "Toyota",
+      "CarModel": "Camry"
     },
     {
-      "id": 2,
-      "make": "Audi",
-      "model": "Q7",
-      "type": "SUV",
-      "year": 2018
+      "CarMake": "Toyota",
+      "CarModel": "Corolla"
     },
     {
-      "id": 3,
-      "make": "Audi",
-      "model": "A4",
-      "type": "SEDAN",
-      "year": 2015
+      "CarMake": "Toyota",
+      "CarModel": "RAV4"
     },
     {
-      "id": 4,
-      "make": "Toyota",
-      "model": "Camry",
-      "type": "SEDAN",
-      "year": 2021
+      "CarMake": "Honda",
+      "CarModel": "Civic"
     },
     {
-      "id": 5,
-      "make": "Toyota",
-      "model": "RAV4",
-      "type": "SUV",
-      "year": 2022
+      "CarMake": "Honda",
+      "CarModel": "Accord"
     },
     {
-      "id": 6,
-      "make": "Toyota",
-      "model": "Sienna",
-      "type": "WAGON",
-      "year": 2020
+      "CarMake": "Honda",
+      "CarModel": "CR-V"
+    },
+    {
+      "CarMake": "Ford",
+      "CarModel": "F-150"
+    },
+    {
+      "CarMake": "Ford",
+      "CarModel": "Mustang"
+    },
+    {
+      "CarMake": "Ford",
+      "CarModel": "Explorer"
+    },
+    {
+      "CarMake": "Audi",
+      "CarModel": "A4"
+    },
+    {
+      "CarMake": "Audi",
+      "CarModel": "Q5"
+    },
+    {
+      "CarMake": "Audi",
+      "CarModel": "A6"
+    },
+    {
+      "CarMake": "BMW",
+      "CarModel": "3 Series"
+    },
+    {
+      "CarMake": "BMW",
+      "CarModel": "5 Series"
+    },
+    {
+      "CarMake": "BMW",
+      "CarModel": "X5"
     }
   ]
 }
