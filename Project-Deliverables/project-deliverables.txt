@@ -6,7 +6,7 @@
 Author: Lead Full-Stack Software Developer
 Project Name: Full-Stack-Car-Dealer-Capstone-Python-JS
 Forked Repository Name: Full-Stack-Car-Dealer-Capstone-Python-JS
-Deployment URL: https://briangator.github.io/Full-Stack-Car-Dealer-Capstone-Python-JS/
+Deployment URL: https://theia-trinh7777-8000.proxy.cognitiveclass.ai/
 Backend API URL: https://capstone-developer-3030.theiadocker-3-labs-prod-theia-labs-direct-labs.us-east.containers.appdomain.cloud/
 Frontend App URL: https://capstone-developer-8000.theiadocker-3-labs-prod-theia-labs-direct-labs.us-east.containers.appdomain.cloud/
 
@@ -20,7 +20,7 @@ INDEX OF ARTIFACTS
 
 TASK 1: Repository README Details
   - File: README.md / Task-1 URL
-  - Public URL: https://github.com/BrianGator/Full-Stack-Car-Dealer-Capstone-Python-JS/blob/main/README.md
+  - Public URL: https://github.com/Trinh7777/xrwvm-fullstack_developer_capstone/blob/main/README.md
   - Project Title Saved: "fullstack_developer_capstone"
 
 TASK 2: Running Django Server Terminal Outputs
@@ -29,12 +29,12 @@ TASK 2: Running Django Server Terminal Outputs
 
 TASK 3: Updated About Us Static Page
   - File: /server/frontend/static/About.html (referred in Task 3)
-  - Public URL: https://github.com/BrianGator/Full-Stack-Car-Dealer-Capstone-Python-JS/blob/main/server/frontend/static/About.html
+  - Public URL: https://github.com/Trinh7777/xrwvm-fullstack_developer_capstone/blob/main/server/frontend/static/About.html
   - Description: Contains accurate CSS links to style.css, bootstrap, and modern responsive dealer info cards.
 
 TASK 4: Updated Contact Us Static Page
   - File: /server/frontend/static/Contact.html (referred in Task 4)
-  - Public URL: https://github.com/BrianGator/Full-Stack-Car-Dealer-Capstone-Python-JS/blob/main/server/frontend/static/Contact.html
+  - Public URL: https://github.com/Trinh7777/xrwvm-fullstack_developer_capstone/blob/main/server/frontend/static/Contact.html
   - Description: Active Contact Us navigation element, elegant map placeholders, real contact details.
 
 TASK 5: User Login Session API Log
@@ -47,7 +47,7 @@ TASK 6: User Logout Session API Log
 
 TASK 7: React SignUp Module Source
   - File: /server/frontend/src/components/Register/Register.jsx (referred in Task 7)
-  - Public URL: https://github.com/BrianGator/Full-Stack-Car-Dealer-Capstone-Python-JS/blob/main/server/frontend/src/components/Register/Register.jsx
+  - Public URL: https://github.com/Trinh7777/xrwvm-fullstack_developer_capstone/blob/main/server/frontend/src/components/Register/Register.jsx
   - Description: SignUp JSX displaying 5 inputs with field status.
 
 TASK 8: Dealer Reviews Service Call
@@ -101,3 +101,5 @@ TASK 25, 26, 27 & 28: Live Production Deployment System Verification
 ========================================================================
                          DOCUMENT END - CAPSTONE
 ========================================================================
+
+

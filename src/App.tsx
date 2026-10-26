@@ -422,7 +422,7 @@ function renderScreenshotMockup(key: string) {
     );
   } else if (key.startsWith('DEPLOYED_')) {
     const type = key.replace('DEPLOYED_', '');
-    url = `https://briangator.github.io/Full-Stack-Car-Dealer-Capstone-Python-JS/#/${type.toLowerCase()}`;
+    url = `https://theia-trinh7777-8000.proxy.cognitiveclass.ai/#/${type.toLowerCase()}`;
     title = `Best Cars Dealership - Production Deployed - ${type}`;
     contentNode = (
       <div className="bg-indigo-950/20 text-slate-100 min-h-[300px] font-sans p-5 text-xs">
@@ -4078,3 +4078,4 @@ export default function App() {
     </div>
   );
 }
+
